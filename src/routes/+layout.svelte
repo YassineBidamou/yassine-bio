@@ -13,7 +13,7 @@
   <link rel="icon" href="{config.favicon}" />
 </svelte:head>
 
-<div class="navbar bg-base-300 drop-shadow-md sticky top-0 z-50">
+<div class="navbar bg-base-200 drop-shadow-md sticky top-0 z-50">
   <div class="flex-1">
     <a href="/" class="btn btn-ghost text-xl">
     <div class="avatar mr-2">
