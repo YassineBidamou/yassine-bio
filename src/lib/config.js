@@ -24,7 +24,7 @@ export let items = [
     imageColor : "white",
   },{
     title : "YouTube",
-    paragraph : "@LOSTFF3x",
+    paragraph : "@Lo1ys",
     link : "https://www.youtube.com/@LOSTFF3x",
     imageLink : "https://untemi.sirv.com/bio/youtube.webp",
     imageColor : "white",
